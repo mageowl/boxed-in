@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objecttypes>
+ <objecttype name="button" color="#0051dd"/>
+ <objecttype name="lever" color="#29b1f2"/>
+ <objecttype name="platform" color="#dc0a00"/>
+ <objecttype name="position" color="#ffca56"/>
+ <objecttype name="spawn" color="#02e900"/>
+</objecttypes>
