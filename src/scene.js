@@ -9,7 +9,7 @@ export default class Scene extends Phaser.Scene {
 	updates = [];
 
 	preload() {
-		this.load.tilemapTiledJSON("level", "../tilemaps/ch1.json");
+		this.load.tilemapTiledJSON("level", "./tilemaps/ch1.json");
 		this.load.image("tilesetImage", "./tilemaps/tileset.png");
 	}
 
